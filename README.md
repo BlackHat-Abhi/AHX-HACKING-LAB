@@ -96,7 +96,9 @@ This Tool Only Fir Education Purpose dont Misused thanks
 
 [![Instagram](https://img.shields.io/badge/INSTALGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/blackhat_abhi)
 
-[![Whatsapp](https://img.shields.io/badge/WHATSAPP CHANNEL-yellow?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Va9G5SOHFxOt0W2QRn10)
+
+[![Whatsapp](https://img.shields.io/badge/WHATSAPP-CHANNEL-red?style=for-the-badge&logo=whatsapp)](https://bitly.ws/38Tf6)
+
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-GROUP-red?style=for-the-badge&logo=telegram)](https://t.me/HackerX_Termux_Help)
 
