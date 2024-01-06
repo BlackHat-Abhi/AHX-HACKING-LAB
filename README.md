@@ -87,22 +87,9 @@ This Tool Only Fir Education Purpose dont Misused thanks
 <img src="src/5.png">
 
 <img src="src/6.png">
-
-### Telegram Channel : [Channel](https://t.me/BlackHat_HackerX)
+ Telegram Channel : [Channel](https://t.me/BlackHat_HackerX)
 
 #### Enjoy This Script BY BlackHat-Abhi !
 
 ## CONNECT WITH US :
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/blackhat_abhi)
-
-[![Instagram](https://img.shields.io/badge/WHATSAPP CHANNEL-yellow?style=for-the-badge&logo=telegram)](https://whatsapp.com/channel/0029Va9G5SOHFxOt0W2QRn10)
-
-[![Instagram](https://img.shields.io/badge/TELEGRAM-GROUP-red?style=for-the-badge&logo=telegram)](https://t.me/HackerX_Termux_Help)
-
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/Blackhat_HackerX)
-
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://bit.ly/3LiuRV9)
-
-  
 
