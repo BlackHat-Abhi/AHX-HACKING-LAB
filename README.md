@@ -57,7 +57,14 @@ AHX-HACKING-LAB IS BEST TOOL FOR INSTALL MANY HACKING TOOL IN LINUX & TERMUX
  `apt install git && apt install python -y`
 
  
- ###TOOL USERNAME ``` shree```
+ Tool Username
+
+ ```shree```
+
+
+ Tool Password
+
+ ```ram```
 
 
  
