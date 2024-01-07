@@ -8,6 +8,7 @@ if [[ "$PATH" == *com.termux* ]]; then
     apt upgrade -y
     apt install python3 python-pip
     pip install lolcat
+    python3 ahx.py
     
 elif [[ -e /proc/version ]]; then
 
@@ -17,7 +18,7 @@ elif [[ -e /proc/version ]]; then
     apt-get install python3 -y
     apt-get install python3-pip -y
     pip install lolcat
-    
+    python3 ahx.py
 else
     echo -e "\n\033[1;31mUnsupported OS.\033[0m\n"
 fi
