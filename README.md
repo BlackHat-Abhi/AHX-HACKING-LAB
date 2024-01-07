@@ -6,7 +6,6 @@ AHX-HACKING-LAB IS BEST TOOL FOR INSTALL MANY HACKING TOOL IN LINUX & TERMUX
 
 ```
 
-
 1.  SOCIAL MEDIA PHISHING TOOLS
 2.  SOCIAL MEDIA BRUTEFORCE TOOLS
 3.  DDOS ATTECK TOOLS
@@ -53,7 +52,7 @@ Parrot os
 `apt install git`
 
 
-`https://github.com/BlackHat-Abhi/AHX-HACKING-LAB.git`
+`git clone https://github.com/BlackHat-Abhi/AHX-HACKING-LAB.git`
 
 
 ### After Clone Repositorie
