@@ -33,15 +33,19 @@ AHX-HACKING-LAB IS BEST TOOL FOR INSTALL MANY HACKING TOOL IN LINUX & TERMUX
 ```
 # Tested On
 
-**Termux**
-**Kali Linux**
-**Parrot os**
+Termux
+
+Kali Linux
+
+Parrot os
 
 # Working
 
-**Termux**
-**Kali Linux**
-**Parrot os**
+Termux
+
+Kali Linux
+
+Parrot os
 
 ## Installation Linux  ⬇️
 
@@ -50,11 +54,27 @@ AHX-HACKING-LAB IS BEST TOOL FOR INSTALL MANY HACKING TOOL IN LINUX & TERMUX
 
 `sudo apt-get install -y python3`
 
+
+`python3 ahx.py`
+
+### Clone Repositorie
+
+`https://github.com/BlackHat-Abhi/AHX-HACKING-LAB.git`
+
+
+### After Clone Repositorie
+
+`cd AHX-HACKING-LAB`
+
+
 ## Installation Termux  ⬇️
 `apt update && apt upgrade -y`
 
 
- `apt install git && apt install python -y`
+ `apt install git`
+
+
+ `bash setup.sh`
 
  
  Tool Username
@@ -67,21 +87,7 @@ AHX-HACKING-LAB IS BEST TOOL FOR INSTALL MANY HACKING TOOL IN LINUX & TERMUX
  ```ram```
 
 
- 
-### Clone Repositorie
-
-`https://github.com/BlackHat-Abhi/AHX-HACKING-LAB.git`
-
-
-### After Clone Repositorie
-
-`cd AHX-HACKING-LAB`
-
-### Run And Setup 
-
-`bash setup.sh`
-
-#### Note 
+ #### Note 
 
 This Tool Only Fir Education Purpose dont Misused thanks 
 # Screenshots Kali Linux 
