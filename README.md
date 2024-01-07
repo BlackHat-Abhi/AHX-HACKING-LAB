@@ -47,17 +47,11 @@ Kali Linux
 
 Parrot os
 
-## Installation Linux  ⬇️
-
-`sudo apt update && sudo apt upgrade -y`
+## Installation ⬇️
 
 
-`sudo apt-get install -y python3`
+`apt install git`
 
-
-`python3 ahx.py`
-
-### Clone Repositorie
 
 `https://github.com/BlackHat-Abhi/AHX-HACKING-LAB.git`
 
@@ -65,13 +59,6 @@ Parrot os
 ### After Clone Repositorie
 
 `cd AHX-HACKING-LAB`
-
-
-## Installation Termux  ⬇️
-`apt update && apt upgrade -y`
-
-
- `apt install git`
 
 
  `bash setup.sh`
