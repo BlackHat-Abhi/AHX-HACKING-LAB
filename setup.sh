@@ -6,7 +6,7 @@ if [[ "$PATH" == *com.termux* ]]; then
     echo -e "\n\033[1;32mInstalling Tool in your termux.\033[0m\n"
     apt update -y
     apt upgrade -y
-    apt install python3 python-pip
+    apt install python3 python-pip -y
     pip install lolcat
     clear
     python3 ahx.py
